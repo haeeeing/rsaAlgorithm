@@ -1,0 +1,4 @@
+﻿  rsaAlgorithm.c
+C:\Users\haae7\Documents\문서\자료구조\rsaAlgorithm\rsaAlgorithm\rsaAlgorithm\rsaAlgorithm.c(8,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haae7\Documents\문서\자료구조\rsaAlgorithm\rsaAlgorithm\rsaAlgorithm\rsaAlgorithm.c(89,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+  rsaAlgorithm.vcxproj -> C:\Users\haae7\Documents\문서\자료구조\rsaAlgorithm\rsaAlgorithm\x64\Debug\rsaAlgorithm.exe

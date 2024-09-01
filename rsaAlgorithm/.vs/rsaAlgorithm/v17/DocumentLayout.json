@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haae7\\Documents\\\uBB38\uC11C\\\uC790\uB8CC\uAD6C\uC870\\rsaAlgorithm\\rsaAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A055047-3153-4F7C-B631-35B677E1DB81}|rsaAlgorithm\\rsaAlgorithm.vcxproj|C:\\Users\\haae7\\Documents\\\uBB38\uC11C\\\uC790\uB8CC\uAD6C\uC870\\rsaAlgorithm\\rsaAlgorithm\\rsaAlgorithm\\rsaAlgorithm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A055047-3153-4F7C-B631-35B677E1DB81}|rsaAlgorithm\\rsaAlgorithm.vcxproj|solutionrelative:rsaAlgorithm\\rsaAlgorithm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 499,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rsaAlgorithm.c",
+              "DocumentMoniker": "C:\\Users\\haae7\\Documents\\\uBB38\uC11C\\\uC790\uB8CC\uAD6C\uC870\\rsaAlgorithm\\rsaAlgorithm\\rsaAlgorithm\\rsaAlgorithm.c",
+              "RelativeDocumentMoniker": "rsaAlgorithm\\rsaAlgorithm.c",
+              "ToolTip": "C:\\Users\\haae7\\Documents\\\uBB38\uC11C\\\uC790\uB8CC\uAD6C\uC870\\rsaAlgorithm\\rsaAlgorithm\\rsaAlgorithm\\rsaAlgorithm.c",
+              "RelativeToolTip": "rsaAlgorithm\\rsaAlgorithm.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-01T14:10:06.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
